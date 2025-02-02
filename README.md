@@ -1,16 +1,12 @@
-# projects
+# Dalxiis App
 
-A new Flutter project.
+## 📌 Overview
+Dalxiis App is a **travel and tourism guide** designed to help users explore destinations, book hotels, and plan their trips.
 
-## Getting Started
+![App Screenshot](https://github.com/Muhidin21/dalxiis_app/blob/832e15dac24b55461ea6c6159393085e25615737/Capture.PNG)
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Popular Destinations & Hotels
+- Interactive Maps & Locations
+- User Profiles & Favorites
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
