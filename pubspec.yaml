@@ -1,0 +1,45 @@
+name: dalxiis_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  shared_preferences: ^2.4.0
+  flutter_local_notifications: ^18.0.1
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.3.1
+  flutter_svg: ^2.0.5
+  intl: ^0.18.1
+  smooth_page_indicator: ^1.1.0
+  timeago: ^3.6.1
+  google_maps_flutter: ^2.5.3
+  google_maps_flutter_web: ^0.5.4
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/images/hotels/
+    - assets/images/smile.avif
+    - assets/images/onboarding1.svg
+    - assets/images/onboarding2.svg
+    - assets/images/onboarding3.svg
+    - assets/icons/google.svg
+    - assets/icons/facebook.png
+    - assets/images/logo.png
+    

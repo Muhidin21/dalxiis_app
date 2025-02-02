@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76945839648",
+    "project_id": "dalxis-65664",
+    "storage_bucket": "dalxis-65664.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76945839648:android:9364fd28733e048c374e45",
+        "android_client_info": {
+          "package_name": "com.example.projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2olRM5L0V_1l9lISMTl__y0skuqcxTZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
